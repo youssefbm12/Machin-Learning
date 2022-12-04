@@ -1,0 +1,1 @@
+This notebook was not accomodate to run in Colab but in a locar folder
